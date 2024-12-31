@@ -21,5 +21,5 @@ Radar systems often encounter noise that affects signal clarity. This project de
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/radar-noise-filtering.git
+   git clone https://github.com/evrenbaris/radar-noise-filtering.git
    cd radar-noise-filtering
